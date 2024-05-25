@@ -12,12 +12,12 @@
 
 
 .bi-lightning-charge-fill{
-    color: rgb(232, 232, 12);
+    color: rgb(233, 233, 18);
     font-size: 60px;
 }
 
 .bi-wrench{
-    color: blue;
+    color: rgb(43, 43, 187);
     font-size: 60px;
 }
 
@@ -26,3 +26,22 @@
     
 }
 
+.fot{
+    text-align: center;
+}
+
+.medal{
+    max-height: 200px;
+}
+
+.medal-ali{
+    text-align: center;
+}
+
+.bi-mortarboard-fill{
+    font-size: 40px;
+}
+
+.my-5{
+    
+}
