@@ -6,7 +6,23 @@
     text-align: center;
 }
 
-.divdi{
-padding: 1000px;
+.ali{
+    text-align: center;
+}
 
-    }
+
+.bi-lightning-charge-fill{
+    color: rgb(232, 232, 12);
+    font-size: 60px;
+}
+
+.bi-wrench{
+    color: blue;
+    font-size: 60px;
+}
+
+.iconsize{
+    font-size: 40px;
+    
+}
+
